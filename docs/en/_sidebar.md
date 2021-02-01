@@ -1,5 +1,8 @@
 * [Introduction](/en/)
-* [Bind Amazon Seller Account](bind_seller_account)
+* Amazon DataSource
+  * [Bing Seller](bind_amazonseller_account)
+  * [Tables](amazon_tables)
+* [Pricing](pricing)
 * Datasource
   * [CSV](csv)
   * [JDBC](jdbc)

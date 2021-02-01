@@ -1,5 +1,8 @@
 * [介绍](/)
-* [绑定卖家账号](bind_seller_account)
+* 亚马逊数据源
+  * [绑定账号](bind_amazonseller_account)
+  * [数据表](amazon_tables)
+* [报价](pricing)
 * 数据源
   * [CSV](csv)
   * [JDBC](jdbc)
